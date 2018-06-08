@@ -1,0 +1,5 @@
+{
+  "myproject/tests.py::FunctionalTests": true, 
+  "myproject/tests.py::FunctionalTests::test_root": true, 
+  "myproject/tests.py::ViewTests": true
+}
